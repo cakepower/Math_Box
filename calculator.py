@@ -14,3 +14,6 @@ def divide_new (a, b):
 
 def get_Media(a, b):
     return a~b
+
+def get_Remainder (a, b):
+    return a//b
